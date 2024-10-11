@@ -1,4 +1,4 @@
-### 1
+### 12
 a,b = input('введите два числа').split()
 a,b = map(float,(a,b))
 if b == 0:
