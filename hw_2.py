@@ -43,5 +43,3 @@ elif a == 11:
     print ('november autumn')
 elif a == 12:
     print ('december winter')
-
-
